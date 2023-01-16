@@ -1,25 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+
+import Header from './componet/Header.jsx';
+import Navbar from './componet/Navbar.jsx';
+import Section from './componet/Section.jsx';
+import Section1 from './componet/Section1.jsx';
+import Section2 from './componet/Section2.jsx';
+import './insex.css'
+const person = require('../src/img/Scooter Guy.png')
+
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  <>
+<Navbar/>
+ 
+ <Header image={person}/>
+  <Section/>
+  <Section1/>
+  <Section2/>
+  </>
+ 
+  )
 }
 
 export default App;

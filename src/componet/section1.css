@@ -1,0 +1,111 @@
+.section1_dostavka{
+    margin-top: 100px;
+}
+
+.section1_div{
+    margin-top: 200px;
+}
+
+.section1_h1{
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 50px;
+
+text-transform: capitalize;
+color: #363853;
+}
+
+.section1_h1 span{
+    color: #FF7A50;
+
+}
+
+.section1_p{
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+
+
+color: #363853;
+
+opacity: 0.9;
+margin-top: 30px;
+}
+
+.section_box1{
+    display: flex;
+    margin-top: 20px;
+}
+
+.section_box2{
+    display: flex;
+    margin-top: 20px;
+}
+
+.section_box3{
+    display: flex;
+    margin-top: 20px;
+}
+
+.section1_btn{
+    background: #FF7A50;
+    box-shadow: 0px 22px 40px rgba(255, 104, 56, 0.19);
+    border-radius: 30px 30px 1px 30px;
+    padding: 17px 44px;
+ 
+}
+
+.section_box4{
+    margin-top: 50px;
+}
+
+.section1_btn:hover{
+background: red;
+}
+
+.section1_h5_1{
+    margin-left: 15px;
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height, or 125% */
+
+text-transform: capitalize;
+
+color: #363853;
+}
+
+.section1_h5_2{
+    margin-left: 15px;
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height, or 125% */
+
+text-transform: capitalize;
+
+color: #363853;
+}
+
+.section1_h5_3{
+    margin-left: 15px;
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height, or 125% */
+
+text-transform: capitalize;
+
+color: #363853;
+}

@@ -1,0 +1,59 @@
+.img_header{
+    width: 100%;
+    margin-top: 80px;
+}
+
+.food_text{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 66px;
+    text-transform: capitalize;
+    color: #363853;
+    margin-top: 180px;
+    
+}
+
+.food_text span{
+color: #FF7A50;
+}
+
+.text_i{
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+text-transform: capitalize;
+color: #363853;
+margin-top: 15px;
+
+}
+
+.btn_header{
+    background: #FF7A50;
+box-shadow: 0px 22px 40px rgba(255, 104, 56, 0.19);
+border-radius: 5px;
+padding: 12px 21px;
+border: none;
+color: #FFF;
+font-size: 20px;
+
+}
+
+.link_header{
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+text-decoration-line: underline;
+color: #363853;
+width: 400px;
+margin-left: 20px;
+}
+
+
+
+
+

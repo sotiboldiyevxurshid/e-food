@@ -1,0 +1,42 @@
+ .list {
+     display: flex;
+     justify-content: flex-end;
+     gap: 60px;
+ }
+
+ .list_item {
+     list-style: none;
+     font-family: 'Rubik';
+     font-weight: 400;
+     font-size: 18px;
+     color: #363853;
+     cursor: pointer;
+     margin-top: 15px;
+ }
+
+ .list_item span {
+
+     color: #FF6838;
+ }
+
+ .list_cart {
+     margin-left: 40px;
+ }
+
+ .btn_primary {
+
+     font-weight: 400;
+     font-size: 18px;
+     text-align: center;
+     color: #FFFFFF;
+     background: #FF7A50;
+     box-shadow: 0px 22px 40px rgba(255, 104, 56, 0.19);
+     border-radius: 5px;
+     padding: 17px 27px;
+     border: none;
+
+ }
+
+ .image_right {
+     margin-top: 15px;
+ }

@@ -1,0 +1,94 @@
+.section2_text{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.section2_h1{
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 30px;
+/* identical to box height, or 83% */
+
+text-transform: capitalize;
+color: #363853;
+
+}
+
+.section2_h1 span{
+    color: #FF7A50;;
+}
+.section2_div{
+    display: flex;
+    margin-top: 100px;
+}
+
+.div2{
+    margin-left: 100px;
+}
+
+.div3{
+    margin-left: 100px;
+}
+
+.section_1{
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+color: #363853;
+
+}
+
+
+.section_2{
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+color: #363853;
+
+}
+
+
+.section_3{
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+color: #363853;
+
+}
+
+
+.section2_div_1{
+    display: flex;
+}
+
+.section2_soat{
+    
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+
+color: #363853;
+opacity: 0.9;
+margin-left: 8px;
+margin-top: 10px;
+}
+
+.btn_olish{
+    background: #FF7A50;
+box-shadow: 0px 5px 12px rgba(255, 104, 56, 0.19);
+border-radius: 20px 20px 0px 20px;
+padding: 14px 33px;
+margin-left: 10px;
+
+}
